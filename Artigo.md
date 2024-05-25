@@ -87,4 +87,4 @@ Além disso, gostaria de expressar minha profunda gratidão a toda a equipe de p
 
 Agradeço sinceramente por compartilharem seu conhecimento, experiência e paixão pela área, inspirando-nos a alcançar nossos objetivos e superar desafios. Estou verdadeiramente grato por esta oportunidade de aprendizado e crescimento, e estou ansioso para continuar minha jornada de descoberta e inovação na área de IA e tecnologia. E também não poderia deixar de expressar minha sincera admiração pela criatividade e pela profundidade das discussões promovidas pelo tema ***"Natty or Fake Natty"***.
 
-**Obrigado, Digital Innovation One e Nexa***, por capacitarem e inspirarem uma nova geração de profissionais de tecnologia. Estou profundamente honrado por ter feito parte desta jornada e ansioso para ver o que o futuro nos reserva
+**Obrigado, Digital Innovation One e Nexa**, por capacitarem e inspirarem uma nova geração de profissionais de tecnologia. Estou profundamente honrado por ter feito parte desta jornada e ansioso para ver o que o futuro nos reserva
