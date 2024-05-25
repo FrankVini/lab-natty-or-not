@@ -45,7 +45,7 @@ Essas etapas ajudaram a estruturar o texto de forma organizada e fácil de ler n
 ## 🚀 Resultados
 Acesse meu E-BOOK por aqui! [E-BOOK](/Artigo.md)
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão e Agradecimentos!
 Participar do desafio proposto pela plataforma DIO (Digital Innovation One) no bootcamp da empresa Nexa, focado nos Fundamentos de IA Generativa e Claude 3, foi uma experiência verdadeiramente enriquecedora. Este desafio não apenas testou nossas habilidades e conhecimentos adquiridos ao longo do curso, mas também nos desafiou a pensar de forma criativa e inovadora na aplicação prática dos conceitos aprendidos.
 
 Explorar os fundamentos da IA generativa e entender o funcionamento do modelo Claude 3 foi uma jornada fascinante, que nos levou a mergulhar no mundo da criatividade computacional e da geração de conteúdo por inteligência artificial. Este desafio nos incentivou a experimentar e explorar as possibilidades ilimitadas oferecidas por essas tecnologias, enquanto enfrentávamos problemas reais e buscávamos soluções inovadoras.
@@ -55,11 +55,3 @@ Além disso, gostaria de expressar minha profunda gratidão a toda a equipe de p
 Agradeço sinceramente por compartilharem seu conhecimento, experiência e paixão pela área, inspirando-nos a alcançar nossos objetivos e superar desafios. Estou verdadeiramente grato por esta oportunidade de aprendizado e crescimento, e estou ansioso para continuar minha jornada de descoberta e inovação na área de IA e tecnologia. E também não poderia deixar de expressar minha sincera admiração pela criatividade e pela profundidade das discussões promovidas pelo tema ***"Natty or Fake Natty"***.
 
 **Obrigado, Digital Innovation One e Nexa***, por capacitarem e inspirarem uma nova geração de profissionais de tecnologia. Estou profundamente honrado por ter feito parte desta jornada e ansioso para ver o que o futuro nos reserva
-
-
-
-
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
