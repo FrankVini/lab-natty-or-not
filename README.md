@@ -43,7 +43,8 @@ Para organização dos trechos do texto no Notion, segui algumas etapas:
 Essas etapas ajudaram a estruturar o texto de forma organizada e fácil de ler no Notion.
 
 ## 🚀 Resultados
-***Acesso meu Artigo por aqui*** [Artigo]Artigo.md
+Acesse meu E-BOOK por aqui! [E-BOOK](/Artigo.md)
+
 ## 💭 Reflexão (Opcional)
 Participar do desafio proposto pela plataforma DIO (Digital Innovation One) no bootcamp da empresa Nexa, focado nos Fundamentos de IA Generativa e Claude 3, foi uma experiência verdadeiramente enriquecedora. Este desafio não apenas testou nossas habilidades e conhecimentos adquiridos ao longo do curso, mas também nos desafiou a pensar de forma criativa e inovadora na aplicação prática dos conceitos aprendidos.
 
