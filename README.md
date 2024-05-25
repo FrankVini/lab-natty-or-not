@@ -43,21 +43,21 @@ Para organização dos trechos do texto no Notion, segui algumas etapas:
 Essas etapas ajudaram a estruturar o texto de forma organizada e fácil de ler no Notion.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
-
+***Acesso meu Artigo por aqui*** [Artigo]Artigo.md
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Participar do desafio proposto pela plataforma DIO (Digital Innovation One) no bootcamp da empresa Nexa, focado nos Fundamentos de IA Generativa e Claude 3, foi uma experiência verdadeiramente enriquecedora. Este desafio não apenas testou nossas habilidades e conhecimentos adquiridos ao longo do curso, mas também nos desafiou a pensar de forma criativa e inovadora na aplicação prática dos conceitos aprendidos.
+
+Explorar os fundamentos da IA generativa e entender o funcionamento do modelo Claude 3 foi uma jornada fascinante, que nos levou a mergulhar no mundo da criatividade computacional e da geração de conteúdo por inteligência artificial. Este desafio nos incentivou a experimentar e explorar as possibilidades ilimitadas oferecidas por essas tecnologias, enquanto enfrentávamos problemas reais e buscávamos soluções inovadoras.
+
+Além disso, gostaria de expressar minha profunda gratidão a toda a equipe de professores da Digital Innovation One e da empresa Nexa. Seu compromisso em fornecer educação de alta qualidade e experiências de aprendizado envolventes foi fundamental para o nosso sucesso neste curso. Cada aula, cada exercício e cada desafio foram projetados com cuidado e atenção aos detalhes, proporcionando-nos uma base sólida para desenvolver nossas habilidades e avançar em nossas carreiras na área de IA e tecnologia.
+
+Agradeço sinceramente por compartilharem seu conhecimento, experiência e paixão pela área, inspirando-nos a alcançar nossos objetivos e superar desafios. Estou verdadeiramente grato por esta oportunidade de aprendizado e crescimento, e estou ansioso para continuar minha jornada de descoberta e inovação na área de IA e tecnologia. E também não poderia deixar de expressar minha sincera admiração pela criatividade e pela profundidade das discussões promovidas pelo tema ***"Natty or Fake Natty"***.
+
+**Obrigado, Digital Innovation One e Nexa***, por capacitarem e inspirarem uma nova geração de profissionais de tecnologia. Estou profundamente honrado por ter feito parte desta jornada e ansioso para ver o que o futuro nos reserva
 
 
 
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
 
 [Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
 
