@@ -46,21 +46,21 @@ Essas etapas ajudaram a estruturar o texto de forma organizada e fácil de ler n
 # Título: A Convergência Criativa: IA's Generativas e a Interseção com Outras Tecnologias
 
 Nos últimos anos, testemunhamos uma aceleração extraordinária no **desenvolvimento de tecnologias disruptivas**. Entre elas, as ***Inteligências Artificiais (IA's) generativas emergem como protagonistas**** na fronteira da inovação. No entanto, sua influência não se limita apenas ao seu domínio original. Uma das tendências mais emocionantes é a **interseção das IA's generativas** com outras tecnologias transformadoras, como **Realidade Aumentada (AR), Realidade Virtual (VR) e Blockchain**.
-![Picture 1](IA Generativa.jpg)
+![Picture 1](IAGenerativa.jpg)
 
 ## Realidade Aumentada (AR): O Mundo Amplificado pela Criatividade
 
 **AR** revoluciona a forma como interagimos com o mundo digital, adicionando camadas virtuais ao ambiente físico. A ***fusão com IA's generativas*** oferece um potencial criativo sem precedentes. Imagine caminhar por uma galeria de arte onde as pinturas interagem com você, respondendo às suas expressões faciais ou até mesmo **criando obras de arte personalizadas com base em suas preferências**.
 
 Além disso, a AR impulsiona a personalização em setores como varejo e publicidade. Com IA's generativas, os anúncios podem adaptar-se em tempo real às preferências do espectador, ***criando experiências imersivas e altamente envolventes***.
-![Picture 2](Realidade Aumentada.png)
+![Picture 2](RealidadeAumentada.png)
 
 ## Realidade Virtual (VR): O Universo da Experiência Imersiva
 
 **VR transporta os usuários para mundos totalmente novos**, oferecendo experiências imersivas além da imaginação. Quando combinada com IA's generativas, essa tecnologia transcende os limites do possível. Desde ambientes virtuais gerados dinamicamente até personagens que aprendem e evoluem com base nas interações dos usuários, a ***convergência de VR e IA's generativas promete revolucionar jogos, simulações e treinamento profissional***.
 
 Além disso, a ***VR potencializa a colaboração e a comunicação em um mundo cada vez mais globalizado***. Com IA's generativas, podemos criar avatares virtuais que não apenas replicam nossos movimentos e expressões, mas também aprendem e se adaptam às nuances de nossa personalidade, facilitando interações mais naturais e significativas.
-![Picture 3](Realidade Virtual.png)
+![Picture 3](RealidadeVirtual.png)
 
 ## Blockchain: Descentralização e Criatividade Colaborativa
 
